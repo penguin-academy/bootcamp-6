@@ -9,6 +9,7 @@ Un bootcamp es un curso intensivo de programación de 2 semanas que lleva a nues
 | #1 | **Introducción a Python** <br> Temas: variables; tipos de datos; operaciones aritméticas; concatenación; `input()`; funciones; alcance (funciones); introducción a condicionales.| [Día 1](https://github.com/penguin-academy/bootcamp-6/blob/main/dia1.ipynb) |
 | #2 | **Pensamiento Computacional** <br> Temas: condicionales. Review con el inicio del proyecto Wordle en Python: variables; tipos de datos; concatenación; operadores lógicos; condicionales; funciones (parámetros y argumentos); funciones built-in; listas.| [Día 2](https://github.com/penguin-academy/bootcamp-6/blob/main/dia2.ipynb) |
 | #3 | **Hazlo Funcionar** <br> Temas: listas; bucles `for` y `while`. Continuación y finalización del proyecto Wordle en Python: variables; tipos de datos; concatenación; operadores lógicos; condicionales; funciones (parámetros y argumentos); funciones built-in; listas.| [Día 3](https://github.com/penguin-academy/bootcamp-6/blob/main/dia3.ipynb) |
+| #4 | **Workshop: IoT** <br> Temas: librerías `random`, `time` & `RPi.GPIO`. Raspberry Pi: SSH, LEDs, demo de sensor de distancia. | [Día 4](https://github.com/penguin-academy/bootcamp-6/tree/main/dia4) |
 
 ## Licencia
 El contenido está licenciado bajo GNU General Public License v3.0.
