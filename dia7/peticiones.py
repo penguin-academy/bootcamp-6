@@ -75,6 +75,7 @@ while True:
         break
 
 
+
 print("-----------")
 # Se realiza la consulta a los datos extraídos para ver la URL del poster
 print(datos_de_pelicula['Poster'])
