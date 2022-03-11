@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title> 
+            Mi primera pagina web 
+        </title>
+        <!--
+           CONSIGNA: AGREGAR NUEVAS ETIQUETAS H1-H6 Y FORMATEAR CON CSS DANDOLE UN COLOR DIF    
+       -->
+        <link rel="stylesheet" href="estilos.css">
+    </head>
+    <body>
+        {% block page_content %}
+        <h1> Hola, Penguins!</h1>
+        <h3> Bienvenidos al taller web</h3>
+        <h6> Hola</h6>
+        <img src="perrito.webp" alt="Una foto de un perrito con lentes" width="400" height="400">
+        <h4> {{mis_datos.nombre}} </h4>
+        <h5> {{mis_datos.hobbie}}</h5>
+        {% endblock %}
+    </body>
+</html>

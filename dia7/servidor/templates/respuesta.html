@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title> 
+            Mi primera pagina web 
+        </title>
+        <!--
+           CONSIGNA: AGREGAR NUEVAS ETIQUETAS H1-H6 Y FORMATEAR CON CSS DANDOLE UN COLOR DIF    
+       -->
+        <link rel="stylesheet" href="estilos.css">
+    </head>
+    <body>
+        {% block page_content %}
+        <h1> Hola, el nombre de la pelicula es:{{ datos_filtrados.titulo }} </h1>
+        <h4> Y el director es:  {{datos_filtrados.director}} </h4>
+
+        {% endblock %}
+    </body>
+</html>
