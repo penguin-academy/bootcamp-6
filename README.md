@@ -12,6 +12,7 @@ Un bootcamp es un curso intensivo de programación de 2 semanas que lleva a nues
 | #4 | **Workshop: IoT** <br> Temas: librerías `random`, `time` & `RPi.GPIO`. Raspberry Pi: SSH, LEDs, demo de sensor de distancia. | [Día 4](https://github.com/penguin-academy/bootcamp-6/tree/main/dia4) |
 | #5 | **Objetos & Diccionarios** <br> Temas: conceptos de programación orientada a objetos (clases, objetos, atributos, métodos, herencia). Diccionarios. | [Día 5](https://github.com/penguin-academy/bootcamp-6/blob/main/dia5.ipynb) |
 | #6 | **Workshop: Robótica** <br> Temas: librerías, objetos, métodos. [RoDI](https://github.com/rodibot): movimiento del robot (ruedas), sensor de distancia, sensor de líneas, frecuencias de sonido. (Archivo `.py` de un equipo de participantes)| [Día 6](https://github.com/penguin-academy/bootcamp-6/blob/main/dia6.py) |
+| #7 | **Workshop: Web** <br> Temas: diccionarios, librerías `requests`, `pprint`, `json`, consultas a APIs externas. Desarrollo web: HTML, CSS, FastAPI. | [Día 7](https://github.com/penguin-academy/bootcamp-6/tree/main/dia7) |
 
 ## Licencia
 El contenido está licenciado bajo GNU General Public License v3.0.
