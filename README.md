@@ -5,7 +5,7 @@ Un bootcamp es un curso intensivo de programación de 2 semanas que lleva a nues
 
 ## Archivos
 
-Estos archivos corresponden al bootcamp #5 de Penguin Academy, realizado desde el 2 al 16 de marzo del 2022.
+Estos archivos corresponden al bootcamp #6 de Penguin Academy, realizado desde el 2 al 16 de marzo del 2022.
 
 | Día | Tema | Enlace |
 | --- | --- | --- |
